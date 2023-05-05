@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Advice Generator",
+    "version": "1.0.0",
+    "description": "random snippets of advice",
+    "author": "Becks",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Advice Generator"
+    }
+}
