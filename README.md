@@ -1,5 +1,5 @@
 # Chrome Extension that shows randomly generated snippets of advice
-Using the Advice[link](https://api.adviceslip.com/advice) API
+Using the [Advice API](https://api.adviceslip.com/advice)
 
 ## Tools Used
 - HTML
